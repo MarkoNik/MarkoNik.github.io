@@ -1,0 +1,61 @@
+.blue{
+    background-color: #cfe2ff;
+}
+
+.cyan{
+    background-color: #0aa2c0;
+}
+
+.yellow{
+    background-color: #feb272;
+}
+
+.green{
+    background-color: #a3cfbb;
+}
+
+.darkgreen{
+    background-color: #479f76;
+}
+
+.teal{
+    background-color: #20c997;
+}
+
+.red{
+    background-color: #dc3545;
+}
+
+.black{
+    background-color: #032830;
+}
+
+.content{
+    width: 1170px;
+}
+
+.wrap{
+    padding: 1%;
+}
+
+.logo_header{
+    width: 96px;
+    height: 96px;
+}
+
+.logo_footer{
+    width: 64px;
+    height: 64px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+    font-family: 'Noto Sans', sans-serif;
+}
